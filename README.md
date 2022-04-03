@@ -1,2 +1,6 @@
-# wordle-cli
-Wordle from the command line
+# Wordle-CLI
+Wordle from the Command Line
+
+Run with python3:
+
+`$python3 wordle.py`
